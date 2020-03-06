@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 no-repeat top center;
+   background: #292929 no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -48,7 +48,7 @@ header:before {
    height: 100%;
 }
 header .banner {
-   background: #161415;
+   background: #292929;
    display: inline-block;
    vertical-align: middle;
    margin: 0 auto;
@@ -123,7 +123,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 /* primary navigation
 --------------------------------------------------------------------- */
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
-   background: #161415;
+   background: #292929;
 	 margin: 0;
 	 padding: 0;
 	 border: none;
