@@ -41,7 +41,7 @@
           "company":"Sauce Labs",
           "title":"Software Engineer Intern",
           "years":"May 2019 - August 2019",
-          "description":"Revamped the structure of an internal Python library to reduce the size of configuration files by 30% and support the YAML syntax to allow faster modifications and usage. Investigated and worked with customers to fix virtual machine issues by delegating a single-threaded log collection operation to multiple, and parallel Python processes. Built and released new emulators bundled with Google Play Services, using Jenkins and GitLab pipelines, to allow customers to test their apps with the newest Android version."          
+          "description":"Revamped the structure of an internal Python library to reduce the size of configuration files by 30% and to support the YAML syntax to allow faster modifications and easier usability. Investigated and worked with customers to fix virtual machine issues by delegating a single-threaded log collection operation to multiple, and parallel Python processes. Built and released new emulators bundled with Google Play Services, using Jenkins and GitLab pipelines, to allow customers to test their apps with the newest Android version."          
         },
         {
           "company":"SAP",
