@@ -3,12 +3,12 @@
       "name":"Jim Chiang",
       "occupation":"Software Engineer",
       "image":"profilepic.jpg",
-      "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "bio":"I'm a fresh graduate from the University of British Columbia with a Bachelor of Science majoring in Computer Science. I've had the privilege to intern at a few companies throughout my university career, mostly as a backend engineer, and I'm currently looking for full-time opportunities in full-stack engineering. Some technologies that I like working with include Python, Java, Javascript, React, Rails, Android and many more.",
       "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
       "address":{
         "city":"Vancouver"
       },
-      "website": "http://www.timbakerdev.com",
+      "website": "https://dohkno.github.io/personal-website/",
       "resumedownload":"https://drive.google.com/file/d/1oKboHh9wZvdtmJKZBj3tLrENSG1aNNIw/view?usp=sharing",
       "social":[
         {
@@ -41,25 +41,25 @@
           "company":"Sauce Labs",
           "title":"Software Engineer Intern",
           "years":"May 2019 - August 2019",
-          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."          
+          "description":"Revamped the structure of an internal Python library to reduce the size of configuration files by 30% and support the YAML syntax to allow faster modifications and usage. Investigated and worked with customers to fix virtual machine issues by delegating a single-threaded log collection operation to multiple, and parallel Python processes. Built and released new emulators bundled with Google Play Services, using Jenkins and GitLab pipelines, to allow customers to test their apps with the newest Android version."          
         },
         {
           "company":"SAP",
           "title":"Software Developer Intern",
           "years":"May 2018 - December 2018",
-          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "description":"Researched and implemented models with Tensorflow, Google's open source machine learning library, to train word embeddings to aid in the detection of irregularities in database queries. Designed and developed new endpoints for SAP Jam's developer REST API to enable customers and developers access to real-time data. Migrated the remaining legacy customers from Microsoft Sharepoint to Microsoft Office365 Graph API by implementing a new React user interface, allowing them access to new Microsoft Cloud service resources."
         },
         {
             "company":"TomTom",
             "title":"Android Developer Intern",
             "years":"May 2017 - August 2017",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description":"Integrated SmartDeviceLink open source library into TomTom’s Android app to support video and audio streaming from the user's phone to the vehicle's dashboard monitor. Designed and implemented a new user interface for the dashboard using the Android Presentation API to support new gestures and touch mechanics while connected to the Android app. Implemented vehicle data queries using the SmartDeviceLink library and incorporated them into the new user interface to provide the driver with the most up-to-date vehicle information."
         },
         {
             "company":"University of British Columbia",
             "title":"Teaching Assistant",
             "years":"January 2017 - April 2017",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description":"Teaching assistant for CPSC 210, UBC's software construction course. Held office hours to assist students with projects and assignments and answered questions about the course material. Assisted the professor in teaching topics ranging from Java, object-oriented design, to advanced concepts like design patterns."
         }
       ]
     },
@@ -67,13 +67,13 @@
     {
         "title":"BlockArt",
         "category":"Drawing application implemented with a blockchain",
-        "image":"canadian-wanderlust.jpg",
+        "image":"blockart.png",
         "url":"https://github.com/dohkno/BlockArt"
     },
     {
         "title":"Mooncake",
         "category":"Custom Android Toast Library",
-        "image":"fury-fighting-gear.jpg",
+        "image":"mooncake.png",
         "url":"https://github.com/dohkno/Mooncake"
     }
     ]
