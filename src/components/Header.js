@@ -5,7 +5,6 @@ export default class Header extends Component {
         if(this.props.data){
             var name = this.props.data.name
             var occupation= this.props.data.occupation;
-            var description= this.props.data.description;
             var city= this.props.data.address.city;
             var networks = this.props.data.social.map((network) => {
                 return <li key={network.name}>
