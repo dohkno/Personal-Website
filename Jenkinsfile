@@ -16,6 +16,7 @@ pipeline {
         }
         stage('Deploy') { 
             steps {
+                sh "git config --global user.email 'jimchiang001@gmail.com' && git config --global user.name 'dohkno'"
                 sh "npm install --silent gh-pages@2.1.1"
                 sh 'npm run deploy' 
             }
