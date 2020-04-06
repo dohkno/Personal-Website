@@ -17,7 +17,7 @@ pipeline {
         stage('Deploy') { 
             steps {
                 sh "npm install --silent gh-pages@2.1.1"
-                sh 'npm deploy' 
+                sh 'npm run deploy' 
             }
         }
         
